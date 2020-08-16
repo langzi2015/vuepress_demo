@@ -1,0 +1,23 @@
+{
+  "name": "vuepress_demo",
+  "version": "1.0.0",
+  "description": "user vuepress to implement a blog",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/langzi2015/vuepress_demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/langzi2015/vuepress_demo/issues"
+  },
+  "homepage": "https://github.com/langzi2015/vuepress_demo#readme",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
